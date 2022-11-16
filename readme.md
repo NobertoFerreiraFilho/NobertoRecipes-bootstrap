@@ -49,6 +49,7 @@ Project developed as part of the Alura course "Bootstrap 4: creating a responsiv
   <li><a href="https://getbootstrap.com/docs/4.0/content/typography/">Text styles using Bootstrap classes</a></li>
   <li><a href="https://getbootstrap.com/docs/4.3/utilities/colors/">Bootstrap text colors</a>+CSS color to complement styles</li>
   <li><a href="https://getbootstrap.com/docs/4.3/utilities/text/#text-alignment">Text align using Bootstrap classes</a></li>
+  <li><a href="https://getbootstrap.com/docs/4.3/utilities/spacing/">Text spacing using Bootstrap classes (margin and padding)</a></li>
 </ul>
 
  ### Extra features implemented beyond the Alura course scope for this activity
