@@ -21,7 +21,9 @@
 
   <body>
     <header class="cabecalho">
-      <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex">
+      <nav
+        class="navbar navbar-expand-lg navbar-light bg-light d-flex fixed-top"
+      >
         <a class="navbar-brand font-titulo" href="#"
           ><strong class="especial-color">Noberto</strong>Recipes</a
         >
@@ -48,7 +50,15 @@
             >
             <il><a class="nav-item nav-link" href="#">Products</a></il>
             <il><a class="nav-item nav-link" href="#">About us</a></il>
-            <il><a class="nav-item nav-link" href="#">Contact</a></il>
+            <il
+              ><a
+                class="nav-item nav-link"
+                href="#"
+                data-toggle="modal"
+                data-target="#modalcontact"
+                >Contact</a
+              ></il
+            >
           </ul>
         </div>
       </nav>
@@ -323,6 +333,58 @@
         >
       </p>
     </main>
+    <!-- Modal -->
+    <section
+      class="modal fade"
+      id="modalcontact"
+      tabindex="-1"
+      role="dialog"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog" role="document">
+        <dialog class="modal-content">
+          <header class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Contact us</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </header>
+          <main class="modal-body">
+            <form>
+              <div class="form-group">
+                <label for="exampleFormControlInput1">Full name</label>
+                <input type="text" class="form-control" id="exampleFormControlInput" placeholder="Type your full name">
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlInput1">Email address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+              </div>
+              <div class="form-group">
+                <label for="exampleFormControlTextarea1">Write your message</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Type your message here" rows="3"></textarea>
+              </div>
+            </form>
+          </main>
+          <footer class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-dismiss="modal"
+            >
+              Close
+            </button>
+            <button type="button" class="btn button-especial-color">Send message</button>
+          </footer>
+        </dialog>
+      </div>
+    </section>
+
     <footer></footer>
     <script
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
