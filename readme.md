@@ -42,22 +42,22 @@ Project developed as part of the Alura course "Bootstrap 4: creating a responsiv
 <ul>
   <li><a href='https://getbootstrap.com/docs/4.3/getting-started/introduction'>Installing Bootstrap</a></li>
   <li>Manipulating bootstrap code</li>
+  <li>Implementing and manipulating Bootstrap components: <a href="https://getbootstrap.com/docs/4.3/components/navbar/">Navbar</a>, <a href="https://getbootstrap.com/docs/4.3/components/carousel/">Carousel</a>, <a href="https://getbootstrap.com/docs/4.3/components/card/">Card</a>, <a href="https://getbootstrap.com/docs/4.3/components/modal">Modal</a> and <a href="https://getbootstrap.com/docs/4.3/components/forms/">Forms</a></li>
   <li><a href="https://getbootstrap.com/docs/4.3/layout/grid/">GRID</a> using Bootstrap classes</li>
-  <li><a href="https://getbootstrap.com/docs/4.3/utilities/flex/">Flexbox</a> using Bootstrap classes</li>
-  <li>Implementing and manipulating Bootstrap components: <a href="https://getbootstrap.com/docs/4.3/components/navbar/">Navbar</a>, <a href="https://getbootstrap.com/docs/4.3/components/carousel/">Carousel</a>, <a href="https://getbootstrap.com/docs/4.3/components/card/">Card</a></li>
-  <li>Complementary styling using regular CSS with Bootstrap</li>
-  <li>Importing external font</li>
+  <li><a href="https://getbootstrap.com/docs/4.3/utilities/flex/">FLEXBOX</a> using Bootstrap classes</li>
   <li><a href="https://getbootstrap.com/docs/4.0/content/typography/">Text styles</a> using Bootstrap classes</li>
   <li><a href="https://getbootstrap.com/docs/4.3/utilities/colors/">Text colors</a> using Bootstrap classes+CSS color to complement styles</li>
   <li><a href="https://getbootstrap.com/docs/4.3/utilities/text/#text-alignment">Text align</a> using Bootstrap classes</li>
   <li><a href="https://getbootstrap.com/docs/4.3/utilities/spacing/">Text spacing</a> using Bootstrap classes (margin and padding)</li>
   <li><a href="https://getbootstrap.com/docs/4.3/utilities/colors/#background-color">Background-color</a> using Bootstrap classes</li>
+  <li>Complementary styling using regular CSS with Bootstrap</li>
+  <li>Importing external font</li>
 
 </ul>
 
  ### Extra features implemented beyond the Alura course scope for this activity
  <ul>
-  <li>On construction!</li>
+  <li>Extra section using Flexbox with bootstrap standards class</li>
 </ul>
  
 ## Technics, Technologies and Dependences used:
