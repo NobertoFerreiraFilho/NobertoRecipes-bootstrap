@@ -43,8 +43,8 @@ Project developed as part of the Alura course "Bootstrap 4: creating a responsiv
   <li><a href='https://getbootstrap.com/docs/4.3/getting-started/introduction'>Installing Bootstrap</a></li>
   <li>Manipulating bootstrap code</li>
   <li>Flexbox with Bootstrap</li>
-  <li>First contact with BEM standards for naming classes</li>
-  <li></li>
+  <li>Implementing and manipulating Bootstrap components: Navbar, Carousel, </li>
+  <li>Complementary styling using regular CSS with Bootstrap</li>
 </ul>
 
  ### Extra features implemented beyond the Alura course scope for this activity

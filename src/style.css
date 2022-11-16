@@ -1,0 +1,7 @@
+.image-carousel {
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 70vh;
+    min-height: 250px;
+    max-height: 400px;
+}
