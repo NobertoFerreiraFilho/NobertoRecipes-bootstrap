@@ -13,3 +13,12 @@
     min-height: 250px;
     max-height: 400px;
 }
+
+.button-especial-color{
+    background-color: darkred;
+    color: white;
+}
+
+.border-especial-color{
+    border-color: darkred;
+}
