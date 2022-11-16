@@ -1,5 +1,9 @@
-* {
+.font-titulo{
     font-family: 'Pacifico', cursive;
+}
+
+.especial-color{
+    color: darkred;
 }
 
 .image-carousel {
