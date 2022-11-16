@@ -15,7 +15,7 @@ Project developed as part of the Alura course "Bootstrap 4: creating a responsiv
 <img src='https://img.shields.io/github/issues/NobertoFerreiraFilho/NobertoRecipes-bootstrap'>
 </p>
 
-![gif of the project](#vitrinedev)
+![gif of the project](https://github.com/NobertoFerreiraFilho/NobertoRecipes-bootstrap/blob/main/src/img/NobertoRecipes.gif#vitrinedev)
 
 ## Detalhes do projeto
 
