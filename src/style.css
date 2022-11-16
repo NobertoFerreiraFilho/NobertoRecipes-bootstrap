@@ -1,3 +1,7 @@
+* {
+    font-family: 'Pacifico', cursive;
+}
+
 .image-carousel {
     object-fit: cover;
     object-position: 0 60%;

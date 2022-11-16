@@ -45,6 +45,9 @@ Project developed as part of the Alura course "Bootstrap 4: creating a responsiv
   <li>Flexbox with Bootstrap</li>
   <li>Implementing and manipulating Bootstrap components: Navbar, Carousel, </li>
   <li>Complementary styling using regular CSS with Bootstrap</li>
+  <li>Importing external font</li>
+  <li><a href="https://getbootstrap.com/docs/4.0/content/typography/">Text styles using Bootstrap classes</a></li>
+  <li><a href="https://getbootstrap.com/docs/4.3/utilities/text/#text-alignment">Text align using Bootstrap classes</a></li>
 </ul>
 
  ### Extra features implemented beyond the Alura course scope for this activity
