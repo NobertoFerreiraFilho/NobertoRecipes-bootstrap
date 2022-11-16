@@ -8,8 +8,8 @@
 
 .image-carousel {
     object-fit: cover;
-    object-position: 0 60%;
-    height: 70vh;
+    object-position: 0 80%;
+    height: 80vh;
     min-height: 250px;
     max-height: 400px;
 }
@@ -21,4 +21,13 @@
 
 .border-especial-color{
     border-color: darkred;
+}
+
+.card-position-image{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-width{
+    width: 18rem;
 }
